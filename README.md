@@ -9,4 +9,4 @@ There will be gaps or throughout the game which the user will have to jump over.
 
 <a href = "http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame" > Pygame file</a>
 
-<a href = https://youtu.be/_GikMdhAhv0"> Installing Python 3.6 and Pygame</a>
+<a href = "https://youtu.be/_GikMdhAhv0"> Installing Python 3.6 and Pygame</a>
