@@ -6,5 +6,7 @@ There will be gaps or throughout the game which the user will have to jump over.
 <img src= "https://github.com/jmashieh5932/Motor-Mobile-Mountain-Climber/blob/master/Jason_Mobile%20Motor%20Mounatian%20Climber/Game%20Plan%20Folder/screen%20capture%202.jpg"  width = "400" height = "300">
 <img src= "https://github.com/jmashieh5932/Motor-Mobile-Mountain-Climber/blob/master/Jason_Mobile%20Motor%20Mounatian%20Climber/Game%20Plan%20Folder/screen%20capture%203.jpg" width ="400" height ="300">
 <img src= "https://github.com/jmashieh5932/Motor-Mobile-Mountain-Climber/blob/master/Jason_Mobile%20Motor%20Mounatian%20Climber/Game%20Plan%20Folder/screen%20capture%204.jpg"  width ="400" height ="300">
+
 <a href = "http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame" > Pygame file</a>
+
 <a href = https://youtu.be/_GikMdhAhv0"> Installing Python 3.6 and Pygame</a>
